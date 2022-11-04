@@ -97,7 +97,6 @@
   src:
     url(https://pictures.s3.yandex.net/fonts/Ibmplexserif.woff),
     url(https://pictures.s3.yandex.net/fonts/Ibmplexserif.ttf);
-  font-family: 'IBM Plex Serif';
   font-weight: normal;
 }
 
@@ -108,7 +107,6 @@
   src:
     url(https://pictures.s3.yandex.net/fonts/ubuntu.woff),
     url(https://pictures.s3.yandex.net/fonts/ubuntu.ttf);
-  font-family: 'Ubuntu';
   font-weight: normal;
 }
 
@@ -119,6 +117,5 @@
   src:
     url(https://pictures.s3.yandex.net/fonts/istokregular.woff),
     url(https://pictures.s3.yandex.net/fonts/istokregular.ttf);
-  font-family: 'Istok Web';
   font-weight: normal;
 }
