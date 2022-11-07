@@ -87,34 +87,3 @@
 @import url(../blocks/video/__iframe/video__iframe.css);
 @import url(../blocks/video/__iframes/video__iframes.css);
 
-
-
-@font-face {
-  src: url(https://pictures.s3.yandex.net/fonts/Ibmplexserifsemibold.woff2);
-  font-family: 'IBM Plex Serif';
-  font-weight: bold;
-  src:
-    url(https://pictures.s3.yandex.net/fonts/Ibmplexserif.woff),
-    url(https://pictures.s3.yandex.net/fonts/Ibmplexserif.ttf);
-  font-weight: normal;
-}
-
-@font-face {
-  src: url(https://pictures.s3.yandex.net/fonts/ubuntubold.woff2);
-  font-family: 'Ubuntu';
-  font-weight: bold;
-  src:
-    url(https://pictures.s3.yandex.net/fonts/ubuntu.woff),
-    url(https://pictures.s3.yandex.net/fonts/ubuntu.ttf);
-  font-weight: normal;
-}
-
-@font-face {
-  src: url(https://pictures.s3.yandex.net/fonts/istokbold.woff2);
-  font-family: 'Istok Web';
-  font-weight: bold;
-  src:
-    url(https://pictures.s3.yandex.net/fonts/istokregular.woff),
-    url(https://pictures.s3.yandex.net/fonts/istokregular.ttf);
-  font-weight: normal;
-}
