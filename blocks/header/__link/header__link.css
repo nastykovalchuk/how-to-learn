@@ -2,3 +2,7 @@
   text-decoration: none;
   color: #2f80ed;
 }
+
+a.header__link:hover {
+  opacity: 0.5;
+}
