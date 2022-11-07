@@ -50,16 +50,16 @@
 @import url(../blocks/khan/__title/khan__title.css);
 
 @import url(../blocks/logo/logo.css);
-@import url(../blocks/logo/__place/logo__place_footer.css);
-@import url(../blocks/logo/__place/logo__place_header.css);
+@import url(../blocks/logo/_place/logo_place_footer.css);
+@import url(../blocks/logo/_place/logo_place_header.css);
 
 @import url(../blocks/oakley/oakley.css);
 
 @import url(../blocks/page/page.css);
 
-@import url(../blocks/resourses/resourses.css);
-@import url(../blocks/resourses/__logo/resourses__logo.css);
-@import url(../blocks/resourses/__logo-zone/resourses__logo-zone.css);
+@import url(../blocks/resources/resources.css);
+@import url(../blocks/resources/__logo/resources__logo.css);
+@import url(../blocks/resources/__logo-zone/resources__logo-zone.css);
 
 @import url(../blocks/rotation/rotation.css);
 
